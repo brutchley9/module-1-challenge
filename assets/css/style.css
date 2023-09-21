@@ -86,33 +86,23 @@ aside {
     background-color: #2589bd;
 }
 
+/* Below I consolidated CSS elements that were duplicated (benefit-lead/brand/cost elements now have margins, text alignment and color in same element */
+
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit-brand {
-    margin-bottom: 32px;
+    margin-bottom: 42px;
     color: #ffffff;
+    text-align: center;
 }
 
 .benefit-cost {
-    margin-bottom: 32px;
+    margin-bottom: 42px;
     color: #ffffff;
-}
-
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-brand {
-    margin-bottom: 30px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
     text-align: center;
 }
 
@@ -195,6 +185,8 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+/* Changed footer h2 to h4 so headings are sequential */
+
+footer h4 {
     font-size: 20px;
 }

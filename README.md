@@ -1,6 +1,15 @@
 # Code Refactor Challenge
 
-For this challenge, I will be optimizing a webpage for further accessiblity and efficiency. This was accomplished by accessing the source code HTML, locating "div" elements and refactoring them into semantic elements like "main", article", "aside", etc.
+For this challenge, I will be optimizing a webpage for further accessiblity and efficiency. This was accomplished by:
+
+<li>Accessing the source code HTML, locating "div" elements and refactoring them into semantic elements like "main", article", "aside", etc.</li>
+
+<li>Adding img attributes in the event that they are unable to load, and...
+
+<li>consolidating unnecessarily duplicated CSS elements
+
+Screenshot of webpage:
+
 
 ---
 
@@ -17,3 +26,5 @@ Original starter code can be found here: https://github.com/coding-boot-camp/urb
 https://www.w3schools.com/html/html5_semantic_elements.asp
 
 https://www.w3schools.com/tags/tag_title.asp
+
+https://www.w3schools.com/tags/att_img_alt.asp
