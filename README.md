@@ -9,7 +9,7 @@ For this challenge, I will be optimizing a webpage for further accessiblity and 
 <li>consolidating unnecessarily duplicated CSS elements
 
 Screenshot of webpage:
-
+![Alt text](assets/images/website-screenshot.png)
 
 ---
 
