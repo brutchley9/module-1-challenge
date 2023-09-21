@@ -1,5 +1,19 @@
 # Code Refactor Challenge
 
-Optimizing a webpage for better accesibility
+For this challenge, I will be optimizing a webpage for further accessiblity and efficiency. This was accomplished by accessing the source code HTML, locating "div" elements and refactoring them into semantic elements like "main", article", "aside", etc.
 
 ---
+
+Follow link https://brutchley9.github.io/module-1-challenge/ to access this website!
+
+Follow link https://github.com/brutchley9/module-1-challenge to access GitHub repository for this website.
+
+Original starter code can be found here: https://github.com/coding-boot-camp/urban-octo-telegram
+
+---
+
+# Resources
+
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+https://www.w3schools.com/tags/tag_title.asp
